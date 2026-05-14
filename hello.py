@@ -1,2 +1,3 @@
-print("hello world")
-print("今日は4月30日です")
+for i in range(100):
+   if i % 2 ==0:
+         print(i)
