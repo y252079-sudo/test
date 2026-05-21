@@ -1,0 +1,6 @@
+scores =[80,55,90,40]
+
+def average(nums):
+    return sum(nums)/len(nums)
+result=average(scores)
+print(result)
